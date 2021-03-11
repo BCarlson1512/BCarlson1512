@@ -1,10 +1,5 @@
 #### Sup... I'm Ben 👋
 
-<!--
-**BCarlson1512/BCarlson1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### About me:
 - I am from Calgary, AB, Canada and am currently living in Cambridge, ON, Canada
 - I am a sponge for knowledge of any kind, and am literally learning something new (and random) every day
