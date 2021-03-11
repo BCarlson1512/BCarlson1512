@@ -26,5 +26,5 @@ Frontend: React, HTML, CSS, Javascript
    - Connect with me on Linkedin
    - Follow/Star my Projects on GitHub
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am part Ukrainan and part Swedish, so good food runs in the family.
+- ⚡ Fun fact: I am part 🇺🇦 Ukrainan and part 🇸🇪 Swedish, so good food runs in the family.
 -->
