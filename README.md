@@ -1,4 +1,4 @@
-#### Sup... I'm Ben 👋
+## Sup... I'm Ben 👋
 
 ### About me:
 - I am from Calgary, AB, Canada and am currently living in Cambridge, ON, Canada
