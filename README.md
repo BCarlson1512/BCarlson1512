@@ -3,7 +3,7 @@
 ### About me:
 - I am from Calgary, AB, Canada and am currently living in Cambridge, ON, Canada
 - I am a sponge for knowledge of any kind, and am literally learning something new (and random) every day
-- When I am not coding, youll probably see me hanging out at the track, on a hike in the middle of the woods or mountain biking down gnarly trails. 
+- When I am not coding, youll probably see me 🏎️ hanging out at the track, 🥾 on a hike in the middle of the woods or 🚴 mountain biking down gnarly trails. 
 - I love trying to figure out the inter workings of literally anything I can get my hands on; hence the love of motorsports
 
 ### My Ever-Growing Tech Stack...
@@ -22,9 +22,9 @@ Frontend: React, HTML, CSS, Javascript
 - 🤔 I’m looking for help with (Nothing atm) but if you have suggestions on how/where I can improve my work, reach out to me.
 - 💬 Ask me about anything React, or my Hobbies (programmers have lives too :))
 - 📫 How to reach me: 
-   -- Email me:
-   -- Connect with me on Linkedin
-   -- Follow/Star my Projects on github
+   - Email me: ben_carlson@web-us.ca (business inquiries) benproskilled@gmail.com (personal)
+   - Connect with me on Linkedin
+   - Follow/Star my Projects on GitHub
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am part Ukrainan and part Swedish, so good food runs in the family.
 -->
