@@ -25,6 +25,5 @@ Frontend: React, HTML, CSS, Javascript
    - Email me: ben_carlson@web-us.ca (business inquiries) benproskilled@gmail.com (personal)
    - Connect with me on Linkedin
    - Follow/Star my Projects on GitHub
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am part 🇺🇦 Ukrainan and part 🇸🇪 Swedish, so good food runs in the family.
 -->
