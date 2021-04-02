@@ -4,7 +4,7 @@
 - I am from Calgary, AB, Canada and am currently living in Cambridge, ON, Canada
 - I am a sponge for knowledge of any kind, and am literally learning something new (and random) every day
 - When I am not coding, youll probably see me 🏎️ hanging out at the track, 🥾 on a hike in the middle of the woods or 🚴 mountain biking down gnarly trails. 
-- I love trying to figure out the inter workings of literally anything I can get my hands on; hence the love of motorsports
+- I love trying to figure out the inner workings of literally anything I can get my hands on; hence the love of motorsports
 
 ### My Ever-Growing Tech Stack...
 
