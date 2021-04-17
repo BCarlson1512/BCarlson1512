@@ -11,7 +11,7 @@
 Software Development: C, Java
 Mobile Development: React-Native
 Data Science: R, Python (Pandas + Keras) , Matlab
-Databases: MongoDB
+Databases: MongoDB MySQL
 Backend: Express.js, Node.js
 Frontend: React, HTML, CSS, Javascript
 
