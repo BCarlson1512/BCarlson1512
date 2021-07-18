@@ -8,12 +8,12 @@
 
 ### My Ever-Growing Tech Stack...
 
-Software Development: C, Java
-<br>Mobile Development: React-Native
-<br>Data Science: R, Python (Pandas + Keras) , Matlab
-<br>Databases: MongoDB MySQL
-<br>Backend: Express.js, Node.js
-<br>Frontend: React, HTML, CSS, Javascript, TypeScript, Sass
+<b>Software Development:</b> C, Java
+<br><b>Mobile Development:</b> React-Native
+<br><b>Data Science:</b> R, Python (Pandas + Keras) , Matlab
+<br><b>Databases:</b> MongoDB MySQL
+<br><b>Backend:</b> Express.js, Node.js
+<br><b>Frontend:</b> React, HTML, CSS, Javascript, TypeScript, Sass
 
 - 🔭 I’m currently working on Small Data Science Projects and Further Improving my MERN Stack Development
 - 🌱 I’m currently learning  more mobile development platforms/frameworks, Data Science (Python, Keras)
