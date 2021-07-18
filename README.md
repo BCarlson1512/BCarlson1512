@@ -15,15 +15,15 @@
 - Backend: Express.js, Node.js
 - Frontend: React, HTML, CSS, Javascript, TypeScript, Sass
 
-- 🔭 I’m currently working on improving my development skill using MERN stack. Lots of reading...
-- 🌱 I’m currently learning  more mobile development platforms/frameworks. Currently having an internal debate between React Native and Flutter for one of my next projects. I am also looking to pick up another database (relational and SQL) to add to my tech stack.
-- 
+- 🔭 I’m currently working on Small Data Science Projects and Further Improving my MERN Stack Development
+- 🌱 I’m currently learning  more mobile development platforms/frameworks, Data Science (Python, Keras)
+
 - 👯 I’m looking to collaborate on anything! I love learning new things and the best way of doing that in my opinion is throwing myself in over my head on a project.
 - 🤔 I’m looking for help with (Nothing atm) but if you have suggestions on how/where I can improve my work, reach out to me.
 - 💬 Ask me about anything React, or my Hobbies (programmers have lives too :))
 - 📫 How to reach me: 
-   - Email me: ben_carlson@web-us.ca (business inquiries) benproskilled@gmail.com (personal)
-   - Connect with me on Linkedin
+   - Email me: benproskilled@gmail.com (personal)
+   - Connect with me on Linkedin https://www.linkedin.com/in/bencarlson1512/
    - Follow/Star my Projects on GitHub
 - ⚡ Fun fact: I am part 🇺🇦 Ukrainan and part 🇸🇪 Swedish, so good food runs in the family.
 -->
