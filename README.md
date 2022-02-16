@@ -15,8 +15,8 @@
 <br><b>Backend:</b> Express.js, Node.js
 <br><b>Frontend:</b> React, HTML, CSS, Javascript, TypeScript, Sass
 
-- 🔭 I’m currently working on Small Data Science Projects and Further Improving my MERN Stack Development
-- 🌱 I’m currently learning  more mobile development platforms/frameworks, Data Science (Python, Keras)
+- 🔭 I’m currently working on Further Improving my MERN Stack Development, Leetcode and Experimenting with Three.js/WebGL 
+- 🌱 I’m currently learning Intricacies of CS, Typescript (New project incoming), Three.js
 
 - 👯 I’m looking to collaborate on anything! I love learning new things and the best way of doing that in my opinion is throwing myself in over my head on a project.
 - 🤔 I’m looking for help with (Nothing atm) but if you have suggestions on how/where I can improve my work, reach out to me.
