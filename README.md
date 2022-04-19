@@ -23,7 +23,7 @@
 - 💬 Ask me about anything React, or my Hobbies (programmers have lives too :))
 - 📫 How to reach me: 
    - Email me: benproskilled@gmail.com (personal)
-   - Email me: carlsonbenjamint@gmail.com
+   - Email me: carlsonbenjamint@gmail.com (business)
    - Connect with me on Linkedin https://www.linkedin.com/in/bencarlson1512/
    - Follow/Star my Projects on GitHub
 - ⚡ Fun fact: I am part 🇺🇦 Ukrainan and part 🇸🇪 Swedish, so good food runs in the family.
