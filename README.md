@@ -11,9 +11,9 @@
 <b>Software Development:</b> C, Java
 <br><b>Mobile Development:</b> React-Native
 <br><b>Data Science:</b> R, Python (Pandas + Keras) , Matlab
-<br><b>Databases:</b> MongoDB MySQL, Postgresql
+<br><b>Databases:</b> MongoDB MySQL, Postgresql, Neo4j
 <br><b>Backend:</b> Express.js, Node.js
-<br><b>Frontend:</b> React, HTML, CSS, Javascript, TypeScript, Sass
+<br><b>Frontend:</b> React, Next.js, HTML, CSS, Javascript, TypeScript, Sass
 
 - 🔭 I’m currently working on Further Improving my MERN Stack Development, Leetcode and Experimenting with Three.js/WebGL 
 - 🌱 I’m currently learning Three.js, IOT technology, Cloud services/Devops (AWS, kuber, etc)
