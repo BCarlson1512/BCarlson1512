@@ -32,6 +32,7 @@
 ## Current Projects...
 
 - Dogs-Barking
+- Web3 Intro
 
 ## Thats Enough about me... Let's Connect!
 
