@@ -21,6 +21,11 @@
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
+## Stats
+
+[![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BCarlson1512&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BCarlson1512&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Knowledge is Power...
 
 - To further extend and grow my knowledge, I am working on the following:
