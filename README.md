@@ -30,8 +30,7 @@
 
 - To further extend and grow my knowledge, I am working on the following:
 - AWS developer certification
-- Cloud Services
-- Devops Practices
+- Web3.0 dApps (Solidity + Rust)
 - React Design Patterns
 
 ## Current Projects...
