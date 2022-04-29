@@ -28,7 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BCarlson1512&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Knowledge is Power...
 
-- To further extend and grow my knowledge, I am working on the following:
+To further extend and grow my knowledge, I am working on the following:
 - AWS developer certification
 - Web3.0 dApps (Solidity + Rust)
 - React Design Patterns
