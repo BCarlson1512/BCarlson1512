@@ -32,11 +32,12 @@ To further extend and grow my knowledge, I am working on the following:
 - AWS developer certification
 - Web3.0 dApps (Solidity + Rust)
 - React Design Patterns
+- Asynchronous Processing/Promise based events
 
 ## Current Projects...
-
+- Asyncify
 - Dogs-Barking
-- Web3 Intro
+
 
 ## Thats Enough about me... Let's Connect!
 
