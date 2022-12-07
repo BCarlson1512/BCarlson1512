@@ -30,9 +30,7 @@
 
 To further extend and grow my knowledge, I am working on the following:
 - Deno
-- Svelte
 - AWS developer certification
-- Web3.0 dApps (Solidity + Rust)
 
 ## Current Projects...
 - Asyncify
