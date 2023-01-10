@@ -33,8 +33,7 @@ To further extend and grow my knowledge, I am working on the following:
 - AWS developer certification
 
 ## Current Projects...
-- Asyncify
-- Super secret project
+- Portfolio Site
 
 
 ## Thats Enough about me... Let's Connect!
