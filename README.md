@@ -30,11 +30,12 @@
 
 To further extend and grow my knowledge, I am working on the following:
 - Deno
+- Mobile development (React native)
 - AWS developer certification
 
 ## Current Projects...
 - Portfolio Site
-
+- Gainstracker
 
 ## Thats Enough about me... Let's Connect!
 
