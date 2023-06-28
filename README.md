@@ -1,7 +1,7 @@
 # Hello Traveller 👋
 ## About me
 
-- I am from ***Calgary, AB, Canada*** and am currently living in ***Guelph, ON, Canada*** / ***St Catharines, ON, Canada***
+- I am from ***Calgary, AB, Canada*** and am currently living in ***St Catharines, ON, Canada***
 - I am a sponge for knowledge of any kind, and am literally learning something new (and random) every day
 - When I am not coding, youll probably see me 🥾 on a hike in the middle of the woods or 🚴 Hurling myself down a mountain on either a bike or snowboard (season dependent) 
 - I love trying to figure out the inner workings of literally anything I can get my hands on
@@ -34,7 +34,6 @@ To further extend and grow my knowledge, I am working on the following:
 - AWS developer certification
 
 ## Current Projects...
-- Portfolio Site
 - Gainstracker
 
 ## Thats Enough about me... Let's Connect!
