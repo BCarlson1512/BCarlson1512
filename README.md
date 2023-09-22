@@ -3,7 +3,7 @@
 
 - I am from ***Calgary, AB, Canada*** and am currently living in ***St Catharines, ON, Canada***
 - I am a sponge for knowledge of any kind, and am literally learning something new (and random) every day
-- When I am not coding, youll probably see me 🥾 on a hike in the middle of the woods or 🚴 Hurling myself down a mountain on either a bike or snowboard (season dependent) 
+- When I am not coding, youll probably see me Rowing or 🚴 Hurling myself down a mountain on either a bike or snowboard (season dependent) 
 - I love trying to figure out the inner workings of literally anything I can get my hands on
 - I'm a perfectionist and am always trying to better myself in all aspects of my life
 
