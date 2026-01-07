@@ -29,8 +29,6 @@
 ## Knowledge is Power...
 
 To further extend and grow my knowledge, I am working on the following:
-- Mobile development (React native)
-- AWS developer certification
 
 ## Current Projects...
 - Aisle
